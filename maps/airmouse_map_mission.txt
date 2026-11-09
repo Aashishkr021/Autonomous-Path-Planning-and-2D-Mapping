@@ -1,0 +1,7 @@
+MISSION TIME (take-off -> landed): 6 min 33 s simulated  (30 min 02 s real time)
+   ENTER      4 s
+   EXPLORE  231 s
+   SWEEP    144 s
+   RETURN     3 s
+   HOME       1 s
+   DONE       4 s

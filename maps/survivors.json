@@ -1,0 +1,37 @@
+{
+  "count": 4,
+  "survivors": [
+    {
+      "id": "S1",
+      "x": -0.78,
+      "y": 0.12,
+      "box": "C1",
+      "sightings": 69,
+      "first_seen_s": 72.7
+    },
+    {
+      "id": "S2",
+      "x": 4.89,
+      "y": 5.79,
+      "box": "E2",
+      "sightings": 38,
+      "first_seen_s": 164.2
+    },
+    {
+      "id": "S3",
+      "x": 3.87,
+      "y": 5.11,
+      "box": "D2",
+      "sightings": 64,
+      "first_seen_s": 324.5
+    },
+    {
+      "id": "S4",
+      "x": 1.92,
+      "y": 4.36,
+      "box": "D2",
+      "sightings": 5,
+      "first_seen_s": 362.2
+    }
+  ]
+}
