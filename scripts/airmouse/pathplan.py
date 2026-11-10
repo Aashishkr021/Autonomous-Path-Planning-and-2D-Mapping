@@ -55,7 +55,7 @@ def dijkstra(g, start):
 
 
 def _dijkstra_py(g, start):
-    """Pure-Python fallback / reference implementation."""
+    
     h, w = g['h'], g['w']
     trav = g['trav'].ravel().tolist()
     cost = g['cost'].ravel().tolist()

@@ -1,13 +1,5 @@
 #!/usr/bin/env python3
-"""
-survivor_tagger.py - turns YOLO boxes into survivor positions ON THE SLAM MAP.
 
-  /person_boxes (yolo_person.py) + /scan + TF map->base_link
-        -> distinct-person tracker (airmouse/survivors.py)
-        -> /survivors  (MarkerArray: red disc + label "S1 B3", shown in RViz on top of the map)
-        -> maps/survivors.json and maps/survivors.csv (rewritten each time a survivor is confirmed)
-Runs at the same time as the explorer; it never sends commands to the drone.
-"""
 import csv
 import json
 import math

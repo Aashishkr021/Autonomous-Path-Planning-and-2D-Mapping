@@ -1,6 +1,3 @@
-"""Starts: ROS<->Gazebo bridge, base_link->laser TF, slam_toolbox, RViz.
-Run:  ros2 launch $NIDAR_HOME/launch/mapping.launch.py
-"""
 import os
 from ament_index_python.packages import get_package_share_directory
 from launch import LaunchDescription
